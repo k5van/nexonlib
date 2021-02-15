@@ -92,7 +92,7 @@ def underMaintenance(gameid=MAPLEID):
     '$Connection': 'close',
     '$User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) NexonLauncher/3.3.4 Chrome/69.0.3497.128 Electron/4.2.5 Safari/537.36',
     '$X-Amzn-Trace-Id': 'NxL=6ea85ba6c8df48628d08a957e4fe3566.26',
-    '$Authorization': 'Bearer MST_SFe4S0cpmcQspgASaQD0jm6IWkCWKP0yz_ZLO6MMv1geyoEZvsQjyuyh4Ag9orKlkoA1li-EmpWsD-70dSH0lMfc-PwaADrNIQjtFDwOpKQuyWeSOWq0xT_CnvJOL0FgE8htTdBCQH4.',
+    '$Authorization': 'Bearer MST_SFe4S0cpmcQspgASaQD0jm6IWkCWKP0yz_ZLO6MMv1geyoEZvsQjyuyh4Ag9orKlkoA1li-EmpWsD-70dSH0lMfc-PwaADrNIQjtFDwOpKQuyWeSOWq0xT_CnvJOL0FgE8htTdBCQH4.', #expired token that should work
     '$Accept': '*/*',
     '$Referer': 'https://nxl.nxfs.nexon.com/nxl/main/games/10100',
     '$Accept-Encoding': 'gzip, deflate',
